@@ -21,9 +21,8 @@ char* st(char* s, int n){
 }
 int main(){
  int n = 2;
- char str[] = "Helloa;lsdkfj;lJDSFL;AKSJDF;LAKJSD;LKAJSDLKJASFD;LKGJASDGKLJRepublic";
+ char str[] = "Hello";
 
-// strmove(str, n);
 
 cout << st(str, n) << endl; 
 }
